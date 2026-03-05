@@ -1,11 +1,8 @@
 ---
-title: "Kotlin Project Directory Structure"
-date: 2026-03-05
-draft: true
-slug: "kotlin-project-directory-structure"
-description: "A comprehensive description of the Gradle multi-project repository layout for the Angelos Project™"
-layout: page
+permalink: /style/
 ---
+
+# Kotlin Project Directory Structure
 
 To make it easier to understand the setup of a repository for
 Kotlin/Multiplatform and how it is supposed to be somewhat standardized
