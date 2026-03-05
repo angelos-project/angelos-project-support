@@ -7,7 +7,7 @@ description: "The goal is to normalize the coding style, versions and code quali
 layout: post
 ---
 
-# Normalizing Angelos Project™ Repositories to One Standard
+<!--# Normalizing Angelos Project™ Repositories to One Standard-->
 
 The project has been developed by one person now for 7 years and
 6 month. The first step was to develop a Proof o Concept with the 
