@@ -1,8 +1,5 @@
----
-title: "Technical Support Wiki"
----
 
-<!--# Technical Support Wiki-->
+# Technical Support Wiki
 
 This is the site were technical developer information will be published to the Angelos Project™.
 
