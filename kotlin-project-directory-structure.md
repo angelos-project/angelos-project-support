@@ -1,8 +1,9 @@
 ---
+layout: page
+title: "Kotlin Project Directory Structure"
 permalink: /style/
 ---
 
-# Kotlin Project Directory Structure
 
 To make it easier to understand the setup of a repository for
 Kotlin/Multiplatform and how it is supposed to be somewhat standardized
